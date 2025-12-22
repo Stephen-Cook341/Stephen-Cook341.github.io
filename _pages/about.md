@@ -42,5 +42,3 @@ My first paper Bluetooth Security Analysis of General and Intimate Health IoT De
 Similarly, it is unclear what product is classified as medical category vs. other groups (e.g. health and lifestyle) in other relevant guidelines and laws e.g. the UK Medicines and Healthcare Products Regulatory Agency (MHRA) and the European Union (Regulation (EU) 2017/745 for Medical Devices).--> 
 
 My previous work involved working as a research assistant on the CyFer Project led by <a href="https://sites.google.com/view/maryammjd/team" target="_top">Dr Maryam Mehrnezhad</a> and funded by PETRAS. My role in the project involved conducting a security and privacy analysis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
-
-I am currently conducting research on security and privacy vulnerabilities in assistive IoT devices designed for individuals with Visual Impairments (VI) with a focus on their mobile app and device Bluetooth network communications. 
