@@ -98,6 +98,7 @@ ninja.data = [
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
+  {%- comment -%}
   {%- if site.socials_in_search -%}
     {%- for social in site.data.socials -%}
       {%- case social[0] -%}
@@ -295,6 +296,8 @@ ninja.data = [
       },
     {%- endfor -%}
   {%- endif -%}
+  {%- endcomment -%}
+
   {%- if site.enable_darkmode -%}
     {
       id: 'light-theme',
