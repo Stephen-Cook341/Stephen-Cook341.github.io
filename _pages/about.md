@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
 
 PhD Researcher at [Royal Holloway University of London](https://www.royalholloway.ac.uk/)
 
-I am a first-year PhD student at the Information Security Group at Royal Holloway University of London. I am currently working on 
+I am a 2nd year PhD student at the Information Security Group at Royal Holloway University of London. I am currently working on 
 the security, privacy & accessibility of Health & Assistive Internet of Things (HAIoT), and their accompanying smartphone applications. 
 
 The security, privacy & accessibility of digital health devices have been of interest to researchers in recent years. 
