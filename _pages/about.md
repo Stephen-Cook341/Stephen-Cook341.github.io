@@ -33,12 +33,6 @@ PhD Researcher at [Royal Holloway University of London](https://www.royalhollowa
 I am a 2nd year PhD student at the Information Security Group at Royal Holloway University of London. I am currently working on 
 the security, privacy & accessibility of Health & Assistive Internet of Things (HAIoT), and their accompanying smartphone applications. 
 
-The security, privacy & accessibility of digital health devices have been of interest to researchers in recent years. 
-Currently, there are grey areas in the current regulations and policies and their enforcement regarding the protection of such sensitive data.  
-My first paper Bluetooth Security Analysis of General and Intimate Health IoT Devices and Apps: The Case of FemTech, examined the security and privacy of female orientated IoT health devices and thier apps. 
-
-
-<!--For instance, while there is the “special category data” in the GDPR, it is unclear how this data can be protected against complex risks. 
-Similarly, it is unclear what product is classified as medical category vs. other groups (e.g. health and lifestyle) in other relevant guidelines and laws e.g. the UK Medicines and Healthcare Products Regulatory Agency (MHRA) and the European Union (Regulation (EU) 2017/745 for Medical Devices).--> 
-
-My previous work involved working as a research assistant on the CyFer Project led by <a href="https://sites.google.com/view/maryammjd/team" target="_top">Dr Maryam Mehrnezhad</a> and funded by PETRAS. My role in the project involved conducting a security and privacy analysis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
+The security, privacy & accessibility of digital health devices have been of increasing interest to researchers in recent years. 
+Currently, there are grey areas in both regulations and policies regarding the protection of sensitive and personal health data.  
+My first paper ``Bluetooth Security Analysis of General and Intimate Health IoT Devices and Apps: The Case of FemTech'', examined the security and privacy of female orientated IoT health devices and thier apps. This research was carried out during my time as a research assistant on the CyFer Project led by <a href="https://sites.google.com/view/maryammjd/team" target="_top">Dr Maryam Mehrnezhad</a> and funded by PETRAS. My role in the project involved conducting a security and privacy analysis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
