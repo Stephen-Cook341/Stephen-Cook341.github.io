@@ -35,4 +35,6 @@ the security, privacy & accessibility of Health & Assistive Internet of Things (
 
 The security, privacy & accessibility of digital health devices have been of increasing interest to researchers in recent years. 
 Currently, there are grey areas in both regulations and policies regarding the protection of sensitive and personal health data.  
-My first paper ``Bluetooth Security Analysis of General and Intimate Health IoT Devices and Apps: The Case of FemTech'', examined the security and privacy of female orientated IoT health devices and thier apps. This research was carried out during my time as a research assistant on the CyFer Project led by <a href="https://sites.google.com/view/maryammjd/home" target="_top">Dr Maryam Mehrnezhad</a> and funded by PETRAS. My role in the project involved conducting a security and privacy analysis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
+My first paper ``Bluetooth Security Analysis of General and Intimate Health IoT Devices and Apps: The Case of FemTech'', examined the security and privacy of female orientated IoT health devices and thier apps. 
+
+This research was carried out during my time as a research assistant on the CyFer Project led by <a href="https://sites.google.com/view/maryammjd/home" target="_top">Dr Maryam Mehrnezhad</a> and funded by PETRAS. My role in the project involved conducting a security and privacy analysis of Bluetooth Communications in General and Intimate Health IoT Devices and Apps. 
